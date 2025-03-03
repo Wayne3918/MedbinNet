@@ -22,7 +22,7 @@ param_scheduler = [
 # base_batch_size = (8 GPUs) x (8 samples per GPU)
 auto_scale_lr = dict(base_batch_size=64)
 
-data_root = '../MMDetection/data/MedBin_Dataset/'
+data_root = '../MMdetection/data/MedBin_Dataset/'
 metainfo = {
     'classes': ('Bloody_objects', 'Electronic_thermometer', 'Mask', 'N95',
                 'Oxygen_cylinder', 'Radioactive_objects', 'bandage', 'blade', 'capsule', 'cotton_swab', 'covid_buffer',
