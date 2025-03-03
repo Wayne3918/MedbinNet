@@ -1,6 +1,6 @@
 # MedBin: A Lightweight End-to-End Model-based Method for Medical Waste Management
 
-This repository contains the implementation of **MedBin**, a model designed for efficient medical waste management. Our approach is based on MMDetection, and the detailed instructions below outline the prerequisites, data preparation, and steps to train and test the model.
+This repository contains the implementation of **MedBinNet**, a model designed for efficient medical waste management. Our approach is based on MMDetection, and the detailed instructions below outline the prerequisites, data preparation, and steps to train and test the model.
 
 ---
 
