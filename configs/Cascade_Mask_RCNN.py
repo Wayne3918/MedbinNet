@@ -4,7 +4,7 @@ _base_ = [
     '../MMDetection/configs/_base_/schedules/schedule_20e.py', '../MMDetection/configs/_base_/default_runtime.py'
 ]
 
-data_root = '../MMDetection/data/MedBin_Dataset/'
+data_root = '../MMdetection/data/MedBin_Dataset/'
 metainfo = {
     'classes': ('Bloody_objects', 'Electronic_thermometer', 'Mask', 'N95',
                 'Oxygen_cylinder', 'Radioactive_objects', 'bandage', 'blade', 'capsule', 'cotton_swab', 'covid_buffer',

@@ -7,7 +7,7 @@ model = dict(
         bbox_head=dict(num_classes=37), mask_head=dict(num_classes=37)))
 
 # Modify dataset related settings
-data_root = '../MMDetection/data/MedBin_Dataset/'
+data_root = '../MMdetection/data/MedBin_Dataset/'
 metainfo = {
     'classes': ('Bloody_objects', 'Electronic_thermometer', 'Mask', 'N95',
                 'Oxygen_cylinder', 'Radioactive_objects', 'bandage', 'blade', 'capsule', 'cotton_swab', 'covid_buffer',
