@@ -20,7 +20,7 @@ This repository contains the implementation of **MedBinNet**, a model designed f
 
 ## Overview
 
-**MedBin** is a lightweight, end-to-end model designed to assist with the classification and management of medical waste. Our approach leverages state-of-the-art detection techniques from MMDetection, providing a robust framework for both academic research and practical applications.
+**MedBinNet** is a lightweight, end-to-end model designed to assist with the detection and management of medical waste. Our approach leverages state-of-the-art detection techniques from MMDetection, providing a robust framework for both academic research and practical applications.
 
 ---
 
